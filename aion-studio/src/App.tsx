@@ -19,7 +19,7 @@ interface Field {
   isArray: boolean;
   enumValues?: string;
 }
-
+ 
 interface Entity {
   id: number;
   name: string;
